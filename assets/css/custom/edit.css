@@ -1,0 +1,22 @@
+.editableTable {
+
+}
+  
+.editableTable td {
+
+}
+  
+.editableTable .cellEditing {
+	padding-left: 30px;
+}
+  
+.editableTable .cellEditing input[type=text]{
+    width:100px;
+	height:15px;
+	padding:0px;
+    border:0;
+    background-color:#ffffff; 
+	margin-bottom:0px;
+}
+
+Read more: http://mrbool.com/how-to-create-an-editable-html-table-with-jquery/27425#ixzz2nvffIYrR

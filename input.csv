@@ -1,0 +1,2 @@
+TYPE(Vendor/Customer),COMPANY NAME,ADDRESS,CITY/TOWN,STATE,COUNTRY,ZIP CODE,COMMERCIAL_NAME,PHONE,FAX,EMAIL,IM,TECHNICAL_NAME,PHONE,FAX,EMAIL,IM,RATES_NAME,PHONE,FAX,EMAIL,IM,BILLING_NAME,PHONE,FAX,EMAIL,IM,Equipment manufactured and model,IP Address (Traffic from Voicepace),IP Address (Traffic to Voicepace),Protocol  (SIP and/or H323),"Is prefix required? If yes, which?",CODEC,Termination Type (analog / digital)
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l

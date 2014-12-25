@@ -1,0 +1,32 @@
+.login_option{
+width:200px;
+
+}
+.error{
+	color: #FF0000;
+}
+#login_error{
+	margin-bottom: 15px;
+	margin-top: -10px;
+	text-align: center;
+}
+#login_submit{
+    margin-left: 5px;
+	margin-top: -10px;
+}
+.controls h2{
+	color: #333333;
+	font-size: 16px;
+	font-weight: normal;
+	margin-bottom: -10px;
+}
+#login_form  .controls{
+
+}
+#login_form  .control-label{
+	margin-left: 0;
+}
+#login_form  .control-group{
+	padding-left: 25px;
+	margin-bottom: 13px;
+}

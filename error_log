@@ -1,0 +1,10 @@
+[28-Dec-2013 07:16:22 America/New_York] PHP Warning:  mysql_connect(): Unknown MySQL server host 'ctechuk_crm2' (2) in /home/ctechuk/public_html/crm/db_connection.php on line 7
+[28-Dec-2013 07:17:43 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'ctechuk_root'@'web.ctechuk.com' (using password: YES) in /home/ctechuk/public_html/crm/db_connection.php on line 7
+[28-Dec-2013 07:18:36 America/New_York] PHP Warning:  mysql_connect(): Unknown MySQL server host 'https' (2) in /home/ctechuk/public_html/crm/db_connection.php on line 7
+[28-Dec-2013 07:19:24 America/New_York] PHP Warning:  mysql_connect(): Unknown MySQL server host 'http' (2) in /home/ctechuk/public_html/crm/db_connection.php on line 7
+[28-Dec-2013 07:21:20 America/New_York] PHP Warning:  mysql_connect(): Unknown MySQL server host 'http' (2) in /home/ctechuk/public_html/crm/db_connection.php on line 7
+[28-Dec-2013 07:23:33 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ctechuk/public_html/crm/home.php:2) in /home/ctechuk/public_html/crm/home.php on line 3
+[28-Dec-2013 07:23:50 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ctechuk/public_html/crm/home.php:2) in /home/ctechuk/public_html/crm/home.php on line 3
+[28-Dec-2013 07:24:12 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ctechuk/public_html/crm/home.php:2) in /home/ctechuk/public_html/crm/home.php on line 3
+[28-Dec-2013 07:24:19 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ctechuk/public_html/crm/home.php:2) in /home/ctechuk/public_html/crm/home.php on line 3
+[28-Dec-2013 07:24:42 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ctechuk/public_html/crm/home.php:2) in /home/ctechuk/public_html/crm/home.php on line 3
